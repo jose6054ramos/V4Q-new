@@ -1,0 +1,3 @@
+Version: 0.2  
+My name is: Jose Ramos
+I like Git! True
