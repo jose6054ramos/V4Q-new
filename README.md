@@ -1,3 +1,3 @@
-V4Q
+# V4Q-new
 My name is Jose Ramos
-This is a supository for my work in the Veterans4Quality Class 11.
+This repository for my work in the Veterans4Quality Class 11.
